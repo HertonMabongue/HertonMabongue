@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HertonMabongue
 - 👀 I’m interested in  App/Web/Software development.
 - 🌱 I’m currently stduying Computer Science
-- 💞️ I’m looking to collaborate on cool open source project.
+- I’m looking to collaborate on cool open source project.
 
 <!---
 HertonMabongue/HertonMabongue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
