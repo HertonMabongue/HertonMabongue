@@ -1,4 +1,9 @@
-<h1 align="left">Hello World!!<br><br> Herton Cabral Mabongue 21 years-old </h1>
+<h1 align="left">Hello World!!<br><br> Herton Cabral Mabongue 21 year old Mozambique Computer Science student </h1>
+
+
+[![GitHub Badge](https://img.shields.io/github/followers/HertonMabongue?style=social)](https://github.com/HertonMabongue?tab=followers)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/herton13/)
+
 
 ## About Me
 
