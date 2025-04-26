@@ -1,8 +1,11 @@
 <h1 align="left">Hello World!!<br><br> Herton Cabral Mabongue 21 year old Mozambican Computer Science student </h1>
+ 
+##
 
-
-[![GitHub Badge](https://img.shields.io/github/followers/HertonMabongue?style=social)](https://github.com/HertonMabongue?tab=followers)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/herton13/)
+<div>
+  <a href="https://www.linkedin.com/in/herton13/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/HertonMabongue/" target="_blank"><img src="https://img.shields.io/github/followers/HertonMabongue?style=social"></a>
+</div>
 
 
 ## About Me
@@ -43,7 +46,7 @@
   <img src="https://img.icons8.com/color/48/ms-word.png" height="60" alt="microsoft word logo"  />
   <img src= "https://img.icons8.com/color/48/ms-excel.png" height="60" alt="microsoft excel logo"  />
   <img src= "https://img.icons8.com/color/48/ms-powerpoint--v1.png" height="60" alt="microsoft powerpoint logo"  />
-  <img src= "https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-color-tal-revivo.png" height="60" alt="linux logo"  />
+  <img alt="linux logo" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img src= "https://img.icons8.com/color/48/mac-logo.png" height="60" alt="macos  logo"  />
   <img src="https://img.icons8.com/color/48/windows-10.png" height="60" alt="windows logo"  />
 </div>
