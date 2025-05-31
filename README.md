@@ -1,4 +1,6 @@
-<h1 align="left">Hello World!!<br><br> Herton Cabral Mabongue 21 year old Mozambican Computer Science student </h1>
+<h1 align="left">Hello World!!<br><br> Herton Cabral Mabongue</h1>
+
+## 21-year-old Mozambican  Computer Science student 
  
 ##
 
