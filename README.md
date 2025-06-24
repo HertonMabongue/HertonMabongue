@@ -5,8 +5,13 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/herton13/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/HertonMabongue/" target="_blank"><img src="https://img.shields.io/github/followers/HertonMabongue?style=social"></a>
+  <a href="https://www.linkedin.com/in/herton13/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+ <a href="https://www.instagram.com/hert_on_cm/" target="_blank">
+   <img src="https://img.shields.io/badge/-Instagram-black?logo=instagram&style=social" alt="Instagram Badge">
+  <a href="https://github.com/HertonMabongue/" target="_blank">
+   <img src="https://img.shields.io/github/followers/HertonMabongue?style=social"></a>
 </div>
 
 
@@ -79,7 +84,7 @@
 
 # Contact
 ### Herton Cabral Mabongue
-##### Email: hertoncabral04@gmail.com
+##### Email: contactherton@gmail.com
 ##### LinkedIn: http://www.linkedin.com/in/herton13
 #### Github: https://github.com/HertonMabongue
 
