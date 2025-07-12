@@ -17,7 +17,7 @@
 
 ## About Me
 
-### <p align="left"> I am a Computer Science student at Stellenbosch University interested in finding solutions to real-world problems(Still learning). My interests lie in web and software development, and I enjoy collaborating with others to create impactful products.<br><br> I'm always eager to learn about technologies as a whole and integrate them into different aspects of life.</p>
+### <p align="left"> CS student finding solutions to real-world problems(Still learning).Web and software development, and enjoy collaborating with others to create impactful products.<br><br> I'm always eager to learn about technologies as a whole and integrate them into different aspects of life.</p>
 
 # Languages and Techstack:
 
