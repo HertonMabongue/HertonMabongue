@@ -1,18 +1,9 @@
-<h1 align="left">Hello World!!<br><br> Herton Cabral Mabongue</h1>
+<h1 align="left"> Herton Cabral Mabongue</h1>
 
-## 21-year-old Mozambican  Computer Science student 
- 
-##
+ ### CS student | Project collaborator | Open-Source Contributor
 
-<div>
-  <a href="https://www.linkedin.com/in/herton13/" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
- <a href="https://www.instagram.com/hert_on_cm/" target="_blank">
-   <img src="https://img.shields.io/badge/-Instagram-black?logo=instagram&style=social" alt="Instagram Badge">
-  <a href="https://github.com/HertonMabongue/" target="_blank">
-   <img src="https://img.shields.io/github/followers/HertonMabongue?style=social"></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herton13/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hert_on_cm)
 
 
 ## About Me
@@ -46,6 +37,9 @@
 # Skills:
 
 ###
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-4CAF50?style=for-the-badge&logo=thinkpad&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-FFC107?style=for-the-badge&logo=wechat&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-8E44AD?style=for-the-badge&logo=teams&logoColor=white)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
@@ -56,6 +50,7 @@
   <img alt="linux logo" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img src= "https://img.icons8.com/color/48/mac-logo.png" height="60" alt="macos  logo"  />
   <img src="https://img.icons8.com/color/48/windows-10.png" height="60" alt="windows logo"  />
+ 
 </div>
 
 # Spoken Languages
@@ -69,11 +64,13 @@
 ### 3. Technology Innovation
 
 # Professional Skills:
-### Web Development
-### Software Engineering
-### Data Analysis
-### Project Collaboration
-### MS Office Suite (Word, Excel, PowerPoint)
+### - Web Development
+### - Software Engineering
+### - Data Analysis
+### - Project Collaboration
+### - MS Office Suite (Word, Excel, PowerPoint)
+
+
 
 # GitHub Stats
 ### 
@@ -81,6 +78,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HertonMabongue&locale=en&hide_title=false&layout=pie&card_width=500&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="400" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=HertonMabongue&show_icons=true&include_all_commits=true&rank_icon=github&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
 </div>
+
+## Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=HertonMabongue&color=blue)
 
 # Contact
 ### Herton Cabral Mabongue
