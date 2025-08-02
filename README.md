@@ -26,8 +26,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
@@ -55,7 +53,7 @@
 
 # Spoken Languages
 ### - 🇬🇧 English: Bilingual proficiency
-### - 🇵🇹 Portuguese: Native proficiency
+### - 🇲🇿🇵🇹 Portuguese: Native proficiency
 ### - 🇪🇸 Spanish: Elementary proficiency
 
 # Interests
@@ -74,18 +72,23 @@
 
 # GitHub Stats
 ### 
+ [![Herton's Stats](https://github-readme-stats.vercel.app/api?username=HertonMabongue&theme=highcontrast&rank_icon=github&show_icons=true&show=prs_merged)](https://github.com/HertonMabongue/github-readme-stats)
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HertonMabongue&locale=en&hide_title=false&layout=pie&card_width=500&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="400" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=HertonMabongue&show_icons=true&include_all_commits=true&rank_icon=github&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HertonMabongue&locale=en&hide_title=false&layout=pie&include_all_commits=true&count_private=truecard_width=500&langs_count=7&theme=tokyonight&hide_border=false&order=2" height="400" alt="languages graph"  />
 </div>
 
 ## Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=HertonMabongue&color=blue)
 
-# Contact
-### Herton Cabral Mabongue
-##### Email: contactherton@gmail.com
-##### LinkedIn: http://www.linkedin.com/in/herton13
-#### Github: https://github.com/HertonMabongue
+### Contact Me
+
+**Herton Cabral Mabongue**  
+
+[![Email](https://img.shields.io/badge/Email-contactherton@gmail.com-blue?style=flat&logo=gmail)](mailto:contactherton@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HertonMabongue-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/herton13)  
+[![GitHub](https://img.shields.io/badge/GitHub-HertonMabongue-black?style=flat&logo=github)](https://github.com/HertonMabongue)  
+[![Links](https://img.shields.io/badge/🌐%20My%20Links-hertonlinks.vercel.app-9cf?style=flat)](https://hertonlinks.vercel.app/)
+
+
 
 
