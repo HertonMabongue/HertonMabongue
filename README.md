@@ -56,19 +56,6 @@
 ### - 🇲🇿🇵🇹 Portuguese: Native proficiency
 ### - 🇪🇸 Spanish: Elementary proficiency
 
-# Interests
-### 1. Guitar Playing
-### 2. Open Source Contribution
-### 3. Technology Innovation
-
-# Professional Skills:
-### - Web Development
-### - Software Engineering
-### - Data Analysis
-### - Project Collaboration
-### - MS Office Suite (Word, Excel, PowerPoint)
-
-
 
 # GitHub Stats
 ### 
