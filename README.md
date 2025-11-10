@@ -69,10 +69,9 @@
 
 **Herton Cabral Mabongue**  
 
-[![Email](https://img.shields.io/badge/Email-contactherton@gmail.com-blue?style=flat&logo=gmail)](mailto:contactherton@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HertonMabongue-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/herton13)  
+[![Email](https://img.shields.io/badge/Email-contactherton@gmail.com-blue?style=flat&logo=gmail)](mailto:contactherton@gmail.com)   
 [![GitHub](https://img.shields.io/badge/GitHub-HertonMabongue-black?style=flat&logo=github)](https://github.com/HertonMabongue)  
-[![Links](https://img.shields.io/badge/🌐%20My%20Links-hertonlinks.vercel.app-9cf?style=flat)](https://hertonlinks.vercel.app/)
+
 
 
 
