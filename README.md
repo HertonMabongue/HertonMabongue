@@ -1,14 +1,13 @@
 <h1 align="left"> Herton Cabral Mabongue</h1>
 
- ### CS student | Project collaborator | Open-Source Contributor
-
+ ### | Developer |
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hert_on_cm)
 
 
 ## About Me
 
-### <p align="left"> CS student finding solutions to real-world problems(Still learning).Web and software development, and enjoy collaborating with others to create impactful products.<br><br> I'm always eager to learn about technologies as a whole and integrate them into different aspects of life.</p>
+### <p align="left"> Finding solutions to real-world problems(Still learning).Web and software development, enjoy collaborating with others.
 
 # Languages and Techstack:
 
@@ -50,9 +49,9 @@
 </div>
 
 # Spoken Languages
-### - 🇬🇧 English: Bilingual proficiency
-### - 🇲🇿🇵🇹 Portuguese: Native proficiency
-### - 🇪🇸 Spanish: Elementary proficiency
+### - English: Bilingual proficiency
+### - 🇲🇿Portuguese: Native proficiency
+### - Spanish: Elementary proficiency
 
 
 # GitHub Stats
