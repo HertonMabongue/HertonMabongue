@@ -1,4 +1,7 @@
+[English](README.md) | [Português](README-pt.md) | [Español](README-es.md)
+
 <h1 align="left"> Herton</h1>
+
 
  ### | Developer |
 
