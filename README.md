@@ -59,10 +59,11 @@
 
 # GitHub Stats
 ### 
- [![Herton's Stats](https://github-readme-stats.vercel.app/api?username=HertonMabongue&theme=highcontrast&rank_icon=github&show_icons=true&show=prs_merged)](https://github.com/HertonMabongue/github-readme-stats)
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HertonMabongue&locale=en&hide_title=false&layout=pie&include_all_commits=true&count_private=truecard_width=500&langs_count=7&theme=tokyonight&hide_border=false&order=2" height="400" alt="languages graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HertonMabongue&show_icons=true&locale=en&layout=compact"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HertonMabongue&show_icons=true&locale=en"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HertonMabongue&"/></p>
 
 ## Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=HertonMabongue&color=blue)
